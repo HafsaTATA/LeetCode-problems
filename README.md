@@ -17,7 +17,7 @@ This repository serves as a collection of my daily submissions to LeetCode probl
 
 The repository is organized into folders corresponding to the problem sets on LeetCode. Each folder contains the following:
 
-1. **Solution**: My solution (File: sourceCode) to the problem in one or more programming languages (e.g., Python, Java, C++).
+1. **Solution**: My solution (File: Solution) to the problem in one or more programming languages (e.g., Python, Java, C++).
 2. **Explanation**: Detailed explanation of the solution approach and any key insights (File: Approach).
 
 Feel free to explore the folders and dive into the solutions. Don't hesitate to leave comments or open issues if you have any questions or suggestions!
