@@ -1,3 +1,5 @@
+![image](https://github.com/HafsaTATA/LeetCode-problems/assets/120058921/cc3f2057-30a2-462e-a432-bacfd212494d)
+
 # Approach:
 My approach to this problem is very simple. I first check if the two characters (left and right) are equal. If so, I need to ensure if the subsequent characters are the same, so I loop through both sides using while loops. Finally, when no more common characters are found, the number of characters left is clearly the difference between the right and left values. why? well, Think of it as an interval [left, right], to know the length of that interval, we simply subtract the difference.I add one since right starts from length-1.
 And that's it ^-^
