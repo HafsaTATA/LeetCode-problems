@@ -1,0 +1,2 @@
+# Approach and Intuition:
+The intuition behind the problem is straightforward since it requires finding the **intersection** of two arrays ,each element in the result must be **unique** and the order of return can be in **any order**. These characteristics align well with the set datatype, making it the suitable choice to tackle this problem. Additionally,Python appears to be the ideal language for such a task, especially compared to Java. In Java, we gotta loop through the array to fill our set unlike Python's predefined methods for such operations.
