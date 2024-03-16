@@ -11,9 +11,7 @@ class Solution {
         }
 
         if (zeroExist >= 2) {
-            int[] result = new int[nums.length];
-            Arrays.fill(result, 0);
-            return result;
+            Arrays.fill(nums, 0);
         } else if (zeroExist == 1) {
             for (int i = 0; i < nums.length; i++) {
                 if (nums[i] != 0) {
